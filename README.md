@@ -1,4 +1,4 @@
-# Hi, I'm Harish Jambagi 👋
+# Hi, I'm Harish Jambagi 
 
 ### Aspiring AI/ML Engineer | Software Developer | Problem Solver
 
@@ -106,8 +106,8 @@ I'm interested in opportunities where I can:
 
 ## 📫 Connect With Me
 
-- **Email:** harishjambagi13@gmail.com
-- **GitHub:** [github.com/YOUR-GITHUB-USERNAME](https://github.com/YOUR-GITHUB-USERNAME)
+- Email: harishjambagi13@gmail.com
+- GitHub:https://github.com/harishjambagi13-creator
 
 I'm always open to learning, collaboration, and opportunities to build meaningful technology.
 

@@ -64,20 +64,10 @@ A machine learning project that classifies forest-fire risk into three categorie
 
 **Focus Areas:** Python, Machine Learning, Classification, Environmental Risk Prediction
 
-### 🤖 AI Career Guidance Agent
-An AI-based application designed to help users explore career options and receive career guidance based on their interests and goals.
-
-**Focus Areas:** Artificial Intelligence, Generative AI, Career Guidance
-
 ### 🏥 AI Health Information Chatbot
 A chatbot project designed to provide users with general health information through conversational interactions.
 
 **Focus Areas:** NLP, Conversational AI, Chatbots
-
-### 📊 Student Performance Prediction
-A machine learning mini-project focused on analyzing student-related data to predict academic performance.
-
-**Focus Areas:** Python, Machine Learning, Predictive Analytics
 
 > Explore my repositories for project source code, implementation details, and future improvements.
 
